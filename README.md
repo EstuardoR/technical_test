@@ -72,7 +72,7 @@ Esto iniciará el servidor de desarrollo y podrás acceder a la aplicación a tr
 
 ### 3. Gestión de permisos
 
-Se intentó implementar la gestión de permisos para usuarios con diferentes roles (por ejemplo, usuarios y administradores). Sin embargo, **la lógica de permisos en el backend no se completó correctamente**, lo que puede impedir el acceso adecuado a las páginas protegidas por roles, como la página de administración. Se recomienda mejorar este aspecto para un manejo de roles más robusto.
+Se intentó implementar la gestión de permisos para usuarios con diferentes roles (por ejemplo, usuarios y administradores). Sin embargo, **la lógica de permisos en el backend no se completó correctamente**, lo que puede impedir el acceso adecuado a las páginas protegidas por roles, como la página de administración.
 
 ### 4. Resumen de la solución de la prueba técnica
 
@@ -94,4 +94,4 @@ Asegúrate de tener instalados los siguientes programas en tu sistema:
 
 ## Autor
 
-Desarrollado por [Tu Nombre]. Si tienes alguna duda o sugerencia, no dudes en contactarme.
+Desarrollado por [Joan Estuardo Rodas Ramírez]. Si tienes alguna duda o sugerencia, no dudes en contactarme.
