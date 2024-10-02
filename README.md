@@ -94,4 +94,4 @@ Asegúrate de tener instalados los siguientes programas en tu sistema:
 
 ## Autor
 
-Desarrollado por [Joan Estuardo Rodas Ramírez]. Si tienes alguna duda o sugerencia, no dudes en contactarme.
+Desarrollado por [Joan Estuardo Rodas Ramírez].
